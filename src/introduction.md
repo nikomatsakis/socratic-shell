@@ -8,8 +8,6 @@ Check out the [installation guide](./installation.md).
 
 # Team Collaboration Patterns
 
-```
-
 [user-prompts]: https://github.com/socratic-shell/socratic-shell/tree/main/src/prompts/user
 
 [memory-approaches]: ./retaining-context.md
